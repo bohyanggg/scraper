@@ -13,7 +13,7 @@ This project automates the following steps:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/bohyanggg/shopee-scraper.git
+git clone https://github.com/bohyanggg/scraper.git
 cd shopee-scraper
 ```
 
